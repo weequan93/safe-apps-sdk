@@ -36,7 +36,7 @@
   "author": "Safe (https://safe.global)",
   "license": "MIT",
   "dependencies": {
-    "@safe-global/safe-gateway-typescript-sdk": "^3.5.3",
+    "@safe-global/safe-gateway-typescript-sdk": "https://github.com/weequan93/safe-gateway-typescript-sdk#deriw-dev",
     "viem": "^2.1.1"
   },
   "repository": {

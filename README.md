@@ -53,6 +53,15 @@ For a specific package:
 yarn lerna run --scope @safe-global/safe-apps-sdk build --stream
 ```
 
+### Deriw Release
+
+- Repository appearing as sub-module of the safe-wallet-web
+```shell
+cd safe-wallet-web
+yarn
+npm run build
+```
+
 `--stream` options enables command output. By default, lerna displays it only in case of an error.
 
 ## Release process

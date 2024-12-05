@@ -7,3 +7,4 @@ yalc.lock
 build
 .yalc
 .env
+.yarn

@@ -1,6 +1,5 @@
 {
   "name": "@safe-global/safe-apps-react-sdk",
-  "private": false,
   "version": "4.7.2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
