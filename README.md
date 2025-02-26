@@ -57,8 +57,11 @@ yarn lerna run --scope @safe-global/safe-apps-sdk build --stream
 
 - Repository appearing as sub-module of the safe-wallet-web
 ```shell
-cd safe-wallet-web
 yarn
+
+yarn workspace @safe-global/safe-apps-sdk up  "@safe-global/safe-gateway-typescript-sdk@https://github.com/weequan93/safe-gateway-typescript-sdk#deriw-dev"
+
+
 npm run build
 ```
 

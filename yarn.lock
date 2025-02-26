@@ -4075,9 +4075,9 @@ __metadata:
   linkType: soft
 
 "@safe-global/safe-gateway-typescript-sdk@https://github.com/weequan93/safe-gateway-typescript-sdk#deriw-dev":
-  version: 3.22.4
-  resolution: "@safe-global/safe-gateway-typescript-sdk@https://github.com/weequan93/safe-gateway-typescript-sdk.git#commit=4889754ca17b339edff84c4f9cb9b6d052ae6566"
-  checksum: 10c0/0931bb0d94954dfd1570858417fa3221c40698c9fef34a4ee1d2c207382f3ef58c001b0b96c176331da23199e1acfa6aaff89e3498d0129e7e091d3dfcc0dc06
+  version: 3.22.9
+  resolution: "@safe-global/safe-gateway-typescript-sdk@https://github.com/weequan93/safe-gateway-typescript-sdk.git#commit=944bd4ca2964ba253d25ab439ce0e75971c5097a"
+  checksum: 10c0/2e06a0cb8028e4800c893ed3bd9aadfc8ae0db031850ddf55eb77f7ae2fda30d8cd964898a68e6d56f68e2aeae897d658f4f6e05c729395ad7c27ac09b64ee0d
   languageName: node
   linkType: hard
 
