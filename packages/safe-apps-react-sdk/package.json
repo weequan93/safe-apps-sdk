@@ -13,7 +13,9 @@
   "license": "MIT",
   "author": "Safe (https://safe.global)",
   "dependencies": {
-    "@safe-global/safe-apps-sdk": "^9.1.0"
+    "@safe-global/safe-apps-sdk": "^9.1.0",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.7.3"
   },
   "peerDependencies": {
     "react": "16.x.x || 17.x.x || 18.x.x"
